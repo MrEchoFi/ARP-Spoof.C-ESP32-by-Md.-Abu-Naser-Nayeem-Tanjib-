@@ -1,10 +1,14 @@
+//ARP Spoof by MrEchoFi- Md. Abu Naser Nayeem[Tanjib Isham]-IOT project for penetration testing
+//This project's for educational porposes. 
+// tanjibisham777@gmail.com
+
 #include <WiFi.h>
 #include <esp_wifi.h>
 #include <ESPAsyncWebServer.h>
 #include <U8g2lib.h>
 
 #define LED_PIN 2  // Built-in LED on ESP32
-#define AUTH_PASSWORD "ARP"
+
 #define OLED_ADDRESS 0x3C  // I2C address for the OLED
 
 // Button pins
