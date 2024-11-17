@@ -7,3 +7,27 @@ Connections:
 3]Then upload the code.
 
 NOTE- For display interface, you can see the images.jpg files.
+
+
+Project Features:::::-
+>Target-specific ARP spoofing:
+Sends ARP spoofing packets targeting a specific SSID, MAC address, and IP address.
+
+>High-speed packet delivery:
+The ESP32 is programmed to dispatch 500 ARP packets, ensuring a consistent and effective spoofing simulation.
+
+>Portable and cost-effective:
+Utilizing the compact and affordable ESP32 microcontroller makes this project accessible for educators and students.
+
+
+Hardware and Software Requirements:::-
+Hardware:
+#ESP32 Development Board
+#A laptop/PC with Wi-Fi support for monitoring
+#Power source for the ESP32
+
+
+Software:
+#Arduino IDE or PlatformIO for ESP32 programming
+#Wireshark (optional, for packet analysis)
+#Python or Bash scripts (optional, for additional utilities)
