@@ -5,3 +5,5 @@ Connections:
 1] For 1.3 inch SSD1306 OLED display- SCL/SCK(GPIO-22),SDA(GPIO-21)
 2] For Buttons- GPIO-17,5,18
 3]Then upload the code.
+
+NOTE- For display interface, you can see the images.jpg files.
